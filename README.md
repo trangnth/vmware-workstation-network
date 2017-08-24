@@ -19,7 +19,7 @@ Network in VMware Workstation
 
 VMware Workstation là một phần mềm ảo hóa dùng cho desktop mạnh và rất phổ biến. 
 
-Ta có thể download và cài đặt một cách rất dễ dàng. [Link download] (https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation/10_0?rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0CBsQFjAA&url=http://www.vmware.com/go/downloadworkstation&ei=ZCscVKLEO5S68gXy2oHAAg&usg=AFQjCNEVKbKEcEsfY7NjAaBQZbrtZtXttg&sig2=UxGNBi9DyNElS6RlUrRrTw&bvm=bv.75774317,d.dGc)
+Ta có thể download và cài đặt một cách rất dễ dàng. [Link download](https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation/10_0?rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0CBsQFjAA&url=http://www.vmware.com/go/downloadworkstation&ei=ZCscVKLEO5S68gXy2oHAAg&usg=AFQjCNEVKbKEcEsfY7NjAaBQZbrtZtXttg&sig2=UxGNBi9DyNElS6RlUrRrTw&bvm=bv.75774317,d.dGc)
 
 Tính năng của nó thì không cần giới thiệu nhiều, chắc hẳn ai trong chúng ta cũng đều biết cách tạo một máy ảo trong VMware. Tuy nhiên trong quá trình lab nhiều bài lab với VMware Workstation đôi khi tôi gặp trường hợp mạng giữa các máy ảo không thông, địa chỉ IP của máy ảo tự nhiên bị thay đổi,..vv.
 
